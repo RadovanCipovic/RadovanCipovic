@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RadovanCipovic
+- 👋 Hi, I’m RadovanCipovic
 - 💡 I like to explore new technologies, learn new programing languages like PHP for backend and React for frontend
 - 👀 I’m interested in Job or internship :)
 - 🌱 I’m currently learning JavaScript, React
